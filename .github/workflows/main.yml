@@ -31,5 +31,5 @@ jobs:
         run: npm install -g surge
       
       - name: Deploying on surge
-        run: surge ./build myassignment-05.surge.sh --token ${{ secrets.CLASS05 }}
+        run: surge ./build assignmentmy-05.surge.sh --token ${{ secrets.CLASS05 }}
     
