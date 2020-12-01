@@ -1,0 +1,17 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  background: rgb(233, 29, 114);
+  color: rgb(214, 228, 22);
+  text-align: center;
+  padding-top: 10px ;
+  text-transform: uppercase;
+}
+
+button{
+  text-align: center;
+  border: white 1px solid;
+  font-size: 18px;
+  padding: 10px;
+  margin: 5px;
+}
